@@ -28,6 +28,6 @@ jobs:
         run: python3 hhs_grants.py
       - name: Commit results
         run: |
-          git add -A
-          git commit -m 'New crime data collected' || echo "No changes"
+          git add hhs_grants.csv
+          git commit -m 'New grant data collected' || echo "No changes"
           git push origin || echo "No changes to commit"
