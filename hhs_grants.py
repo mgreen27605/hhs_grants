@@ -43,3 +43,5 @@ with pdfplumber.open(local_pdf_path) as pdf:
 combined_df = pd.concat(all_tables, ignore_index= True)
 
 combined_df.to_csv("hhs_grants.csv", index = False)
+
+print("Current working directory:", os.getcwd())
