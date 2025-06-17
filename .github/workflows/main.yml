@@ -1,0 +1,33 @@
+# This is a basic workflow to help you get started with Actions
+# If broken, check crime classification categories
+
+name: Get data and build csv
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: '0 12 * * *'
+      # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  render:
+    name: Get and compile recent HHS data
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: |
+            python -m pip install --upgrade pip
+            pip install -r requirements.txt
+      - name: Run Python script
+        run: hhs_grants.py
+      - name: Commit results
+        run: |
+          git add -A
+          git commit -m 'New crime data collected' || echo "No changes"
+          git push origin || echo "No changes to commit"
