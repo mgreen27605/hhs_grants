@@ -19,7 +19,7 @@ PEOPLE (MI STOP)",Termination for Cause,X,1
 ACF,90CT7016,90CT701603,"NORTH AMERICAN COUNCIL
 ON ADOPTABLE CHILDREN,
 INC",Minnesota,UNITED STATES,12/8/2025,"$10,000,000.00","$2,557,706.02","$2,557,706.02","$7,442,293.98",Child Welfare Workforce Institute,Departmental Authority,-,1
-ACF,90PH0032,90PH003203,"CHILD TRENDS, INC",District of Columbia,UNITED STATES,12/8/2025,"$3,000,000.00","$566,271.24","$566,271.24","$2,433,728.76","Center for Research on Hispanic Children and
+ACF,90PH0032,90PH003203,"CHILD TRENDS, INC",District of Columbia,UNITED STATES,12/8/2025,"$3,000,000.00","$583,263.88","$583,263.88","$2,416,736.12","Center for Research on Hispanic Children and
 Families",Departmental Authority,-,1
 ACF,90YE0293,90YE029304,URBAN INSTITUTE (THE),District of Columbia,UNITED STATES,12/8/2025,"$8,782,966.00","$4,894,844.58","$4,894,844.58","$3,888,121.42","Center to Support Research and Evaluation Capacity
 of CCDF Lead Agencies",Departmental Authority,-,1
@@ -651,7 +651,7 @@ CDC,NH28CE002975,21NH28CE002975,"Skamania, County of",WASHINGTON,UNITED STATES,8
 Competing Continuation",Bilateral Termination,-,9
 CDC,NH28CE003456,22NH28CE003456,"MENTAL HEALTH
 ASSOCIATION IN VIGO
-COUNTY INC",Indiana,UNITED STATES,5/1/2026,"$250,000.00",-,-,"$250,000.00",Partners for a Drug-Free Sullivan County,Termination for Convenience,-,9
+COUNTY INC",Indiana,UNITED STATES,5/1/2026,"$250,000.00",-,-,"$250,000.00",Partners for a Drug-Free Sullivan County,Termination for Mutual Convenience,-,9
 CDC,NH28CE003600,23NH28CE003600,"Wicomico County Local
 Management Board",MARYLAND,UNITED STATES,8/1/2025,"$250,000.00",-,-,"$250,000.00","Drug-Free Communities (DFC) Support Program-
 Competing Continuation (Year 6) - 2023",Bilateral Termination,-,9
@@ -1885,12 +1885,14 @@ FDA,U01FD008391,UFD008391A,World Health Organization,N/A,SWITZERLAND,1/28/2025,"
 food and medical product quality and safety.",Departmental Authority,-,22
 FDA,U18FD007878,UFD007878A,World Health Organization,N/A,SWITZERLAND,1/28/2025,"$400,000.00","$124,387.00","$124,387.00","$275,613.00","Building Research Capacity in Global Tobacco
 Product Regulation Program",Departmental Authority,-,22
-HRSA,H8000551,25H80CS00551,St. Gabriel Health Clinic,LOUISIANA,UNITED STATES,12/12/2025,"$1,756,326.00","$489,504.18","$489,504.18",-,Health Center Program,Termination for Cause,X,22
+HRSA,H8000551,25H80CS00551,"ST. GABRIEL HEALTH
+CLINIC, INC",Louisiana,UNITED STATES,12/15/2025,"$2,367,476.00","$659,837.30","$659,837.30","$1,707,638.70",Health Center Program,Termination for Cause,X,22
+HRSA,H8000749,25H80CS00749,CARESTL HEALTH,Missouri,UNITED STATES,6/8/2026,"$5,864,622.00","$1,026,924.27","$1,026,924.27","$4,837,697.73",Health Center Program,Termination for Cause,X,22
 NIH,AY2AX000008,AAX000008A,"ADVANCED TECHNOLOGY
 INSTITUTE",South Carolina,UNITED STATES,5/8/2026,-,-,-,-,"The Customer Experience Hub and Spoke Network
 (CX-ARPA-H) Consortium",Bilateral Termination,-,22
 NIH,C06OD034042,COD034042A,"MEHARRY MEDICAL
-COLLEGE",TENNESSEE,UNITED STATES,3/21/2025,"$2,000,000.00","$109,460.26","$109,460.26","$1,890,539.74",Meharry HIV/AIDS Research and Training Facility,Departmental Authority,-,22
+COLLEGE",TENNESSEE,UNITED STATES,3/21/2025,"$2,000,000.00","$109,460.26","$109,460.26","$1,890,539.74",Meharry HIV/AIDS Research and Training Facility,Departmental Authority,-,23
 NIH,D43TW009610,DTW009610D,"HARVARD COLLEGE
 PRESIDENT & FELLOWS OF",MASSACHUSETTS,UNITED STATES,6/9/2025,"$706,800.00","$581,702.00","$581,702.00","$125,098.00","Training in HIV Genomics, Treatment, and Cure
 Research in Botswana",Bilateral Termination,-,23
@@ -3031,9 +3033,9 @@ influenza vaccination in CKD",Departmental Authority,-,37
 NIH,K01DK132455,KDK132455A,"DANA-FARBER CANCER
 INSTITUTE",Massachusetts,UNITED STATES,2/19/2026,-,-,-,-,"The Role of Mitochondrial TNAP in Adaptive
 Thermogenesis",Bilateral Termination,-,37
-NIH,K01HL151902,KHL151902A,BOSTON MEDICAL CENTER,MASSACHUSETTS,UNITED STATES,3/21/2025,-,-,-,-,"Assessing the burden of dementia in transgender
-populations",Departmental Authority,-,37
 NIH,K01HL151902,KHL151902A,BOSTON MEDICAL CENTER,MASSACHUSETTS,UNITED STATES,3/25/2025,"$696,928.00","$654,790.24","$654,790.24","$42,137.76","Assessing the burden of dementia in transgender
+populations",Departmental Authority,-,37
+NIH,K01HL151902,KHL151902A,BOSTON MEDICAL CENTER,MASSACHUSETTS,UNITED STATES,3/21/2025,-,-,-,-,"Assessing the burden of dementia in transgender
 populations",Departmental Authority,-,37
 NIH,K01HL155231,KHL155231A,WASHINGTON UNIVERSITY,Missouri,UNITED STATES,6/16/2025,"$595,916.00","$595,263.43","$595,263.43",$652.57,"Influence of Mycophenolic Acid Pharmacogenomics
 on Lung Transplant Outcomes",Departmental Authority,-,37
@@ -3284,10 +3286,10 @@ Cancer and Chronic Disease in the Arkansas Delta",Departmental Authority,-,40
 NIH,OT2OD035801,OOD035801A,ACCESS HEALTH INC,MICHIGAN,UNITED STATES,4/7/2025,"$1,499,981.00","$1,043,279.29","$1,043,279.29","$456,701.71","Strengthening Community-Driven Safety-Net
 Interventions to Improve Health and Economic Equity",Departmental Authority,-,40
 NIH,OT2OD035834,OOD035834A,"ASIAN AMERICAN HEALTH
-COALITION/HOUSTON",TEXAS,UNITED STATES,3/22/2025,"$1,491,475.00","$511,332.65","$511,332.65","$980,142.35","Addressing Systemic Barriers Impacting Health in
+COALITION/HOUSTON",TEXAS,UNITED STATES,3/28/2025,-,-,-,-,"Addressing Systemic Barriers Impacting Health in
 CHC Communities",Departmental Authority,-,40
 NIH,OT2OD035834,OOD035834A,"ASIAN AMERICAN HEALTH
-COALITION/HOUSTON",TEXAS,UNITED STATES,3/28/2025,-,-,-,-,"Addressing Systemic Barriers Impacting Health in
+COALITION/HOUSTON",TEXAS,UNITED STATES,3/22/2025,"$1,491,475.00","$511,332.65","$511,332.65","$980,142.35","Addressing Systemic Barriers Impacting Health in
 CHC Communities",Departmental Authority,-,40
 NIH,OT2OD035839,OOD035839A,FEONIX - MOBILITY RISING,NEBRASKA,UNITED STATES,4/7/2025,"$1,500,000.00","$968,241.60","$968,241.60","$531,758.40","Reducing Health Disparities through Enhanced
 Mobility Support and Access",Departmental Authority,-,40
@@ -3318,6 +3320,9 @@ NIH,P30CA013696,PCA013696L,"COLUMBIA UNIVERSITY
 HEALTH SCIENCES",NEW YORK,UNITED STATES,3/12/2025,-,-,-,-,Cancer Center Support Grant,Departmental Authority,-,40
 NIH,P30CA016056,PCA016056L,"ROSWELL PARK CANCER
 INSTITUTE CORP",NEW YORK,UNITED STATES,3/21/2025,"$5,500,829.63","$3,407,087.94","$3,407,087.94","$2,093,741.69",Two-Spirit Films in Indigenous Cancer Health,Departmental Authority,-,40
+NIH,P30DK034854,PDK034854H,"CHILDREN'S HOSPITAL
+CORPORATION",Massachusetts,UNITED STATES,6/9/2026,-,-,-,-,Integrated Epithelial and Muscosal Biology,Termination for Cause,X,40
+NIH,P30DK034989,PDK034989H,YALE UNIV,Connecticut,UNITED STATES,6/9/2026,-,-,-,-,Yale Liver Center,Termination for Cause,X,40
 NIH,P50CA257911,PCA257911A,"UNIV OF NORTH CAROLINA
 CHAPEL HILL",NORTH CAROLINA,UNITED STATES,6/15/2025,"$6,442,003.00","$5,840,328.65","$5,840,328.65","$601,674.35",Selective Targeting of Pancreatic Cancer SPORE,Departmental Authority,-,40
 NIH,P50CA281701,PCA281701A,"UNIV OF TEXAS SYS
@@ -3354,10 +3359,10 @@ NIH,R00AG076964,RAG076964B,"UNIVERSITY OF TEXAS AT
 AUSTIN",Texas,UNITED STATES,5/27/2025,"$313,015.79","$187,050.29","$187,050.29","$125,965.50","Epigenetic Mechanisms Linking Lifetime Social and
 Environmental Exposures to Cognitive Aging",Departmental Authority,-,40
 NIH,R00AG078286,RAG078286B,UNIVERSITY OF KENTUCKY,KENTUCKY,UNITED STATES,5/29/2025,"$267,536.80","$196,595.27","$196,595.27","$70,941.53","Early Characterization of Cognitive Status and AD
-Risk in African American Men",Departmental Authority,-,40
+Risk in African American Men",Departmental Authority,-,41
 NIH,R00CA248611,RCA248611B,"UNIVERSITY OF MIAMI
 SCHOOL OF MEDICINE",FLORIDA,UNITED STATES,6/15/2025,"$985,953.68","$827,814.52","$827,814.52","$158,139.16","Role of myeloid-derived suppressor cells in local and
-systemic immunosuppression in glioblastoma",Departmental Authority,-,40
+systemic immunosuppression in glioblastoma",Departmental Authority,-,41
 NIH,R00CA248720,RCA248720B,"NORTHEASTERN
 UNIVERSITY",MASSACHUSETTS,UNITED STATES,4/1/2025,"$497,196.78","$340,073.24","$340,073.24","$157,123.54","Cancer misinformation on social media and its
 correction",Departmental Authority,-,41
@@ -3441,11 +3446,7 @@ PITTSBURGH, THE",Pennsylvania,UNITED STATES,2/9/2026,-,-,-,-,"Risk factors for M
 Senior Cohort",Bilateral Termination,-,41
 NIH,R01AG061785,RAG061785B,"UNIVERSITY OF ALABAMA
 AT BIRMINGHAM",ALABAMA,UNITED STATES,5/2/2025,"$3,831,207.00","$3,013,684.00","$3,013,684.00","$817,523.00","Circadian changes in network excitability and
-Alzheimer disease pathogenesis",Departmental Authority,-,41
-NIH,R01AG069483,RAG069483B,"UNIVERSITY OF WISCONSIN
-SYSTEM/BOARD OF
-REGENTS",Wisconsin,UNITED STATES,5/29/2026,-,-,-,-,"Genetic analysis of UBQLN2-associated
-neurodegeneration in frontotemporal dementia",Bilateral Termination,-,42
+Alzheimer disease pathogenesis",Departmental Authority,-,42
 NIH,R01AG070059,RAG070059A,"NATIONAL OPINION
 RESEARCH CENTER",ILLINOIS,UNITED STATES,3/21/2025,"$2,701,741.00","$2,533,544.44","$2,533,544.44","$168,196.56","Sampling Strategies and Measure Development for
 the LGBT Aging Project (SAMLAP)",Departmental Authority,-,42
@@ -3517,13 +3518,13 @@ MEDICAL CENTER",TEXAS,UNITED STATES,4/18/2025,"$78,007.00","$78,007.00","$78,007
 Gamma-Herpesvirus Latency",Departmental Authority,-,42
 NIH,R01AI130110,RAI130110B,OHIO STATE UNIVERSITY,OHIO,UNITED STATES,4/18/2025,"$1,945,836.00","$1,328,806.00","$1,328,806.00","$617,030.00",Mechanisms of innate resistance to virus infections,Departmental Authority,-,42
 NIH,R01AI139261,RAI139261B,"TEXAS A&M UNIVERSITY
-HEALTH SCIENCE CTR",TEXAS,UNITED STATES,4/18/2025,"$183,766.00","$128,126.00","$128,126.00","$55,640.00","Decoding the clinical impact of the recent evolution
-of metronidazole resistance on Clostridium difficile
-infection.",Departmental Authority,-,42
-NIH,R01AI139261,RAI139261B,"TEXAS A&M UNIVERSITY
 HEALTH SCIENCE CTR",TEXAS,UNITED STATES,4/18/2025,"$52,374.00",-,-,"$52,374.00","Diversity Supplement: Decoding the clinical impact of
 the recent evolution of metronidazole resistance on
 Clostridium difficile infection",Departmental Authority,-,42
+NIH,R01AI139261,RAI139261B,"TEXAS A&M UNIVERSITY
+HEALTH SCIENCE CTR",TEXAS,UNITED STATES,4/18/2025,"$183,766.00","$128,126.00","$128,126.00","$55,640.00","Decoding the clinical impact of the recent evolution
+of metronidazole resistance on Clostridium difficile
+infection.",Departmental Authority,-,42
 NIH,R01AI145675,RAI145675A,"JOHNS HOPKINS
 UNIVERSITY",MARYLAND,UNITED STATES,3/20/2025,"$2,857,104.00","$2,589,123.85","$2,589,123.85","$267,980.15","Improving PrEP protection ofÂ transgender women
 through mechanistic pharmacokinetic understanding",Departmental Authority,-,43
@@ -3785,10 +3786,10 @@ CARTRIDGE-BASED BREAST CANCER
 DETECTION ASSAY- AN ACADEMIC-INDUSTRIAL
 PARTNERSHIP",Bilateral Termination,-,46
 NIH,R01CA269813,RCA269813A,"UNIVERSITY OF
-ROCHESTER",NEW YORK,UNITED STATES,4/28/2025,-,-,-,-,"Impact of extracellular glutathione catabolism on
+ROCHESTER",NEW YORK,UNITED STATES,4/25/2025,"$1,759,860.00","$1,347,065.00","$1,347,065.00","$412,795.00","Impact of extracellular glutathione catabolism on
 triple-negative breast cancer",Departmental Authority,-,46
 NIH,R01CA269813,RCA269813A,"UNIVERSITY OF
-ROCHESTER",NEW YORK,UNITED STATES,4/25/2025,"$1,759,860.00","$1,347,065.00","$1,347,065.00","$412,795.00","Impact of extracellular glutathione catabolism on
+ROCHESTER",NEW YORK,UNITED STATES,4/28/2025,-,-,-,-,"Impact of extracellular glutathione catabolism on
 triple-negative breast cancer",Departmental Authority,-,46
 NIH,R01CA270234,RCA270234A,"UNIVERSITY OF OKLAHOMA
 HLTH SCIENCES CTR",OKLAHOMA,UNITED STATES,6/15/2025,"$1,803,627.00","$1,303,781.47","$1,303,781.47","$499,845.53","Molecular Basis of ME2-mediated Tumor
@@ -3814,12 +3815,12 @@ NIH,R01CA276512,RCA276512A,"UNIVERSITY OF
 PENNSYLVANIA",PENNSYLVANIA,UNITED STATES,6/15/2025,"$1,974,763.00","$1,525,711.24","$1,525,711.24","$449,051.76","Stromal and vascular inputs into pancreatic cancer
 tumor neighborhoods",Departmental Authority,-,46
 NIH,R01CA276525,RCA276525A,"BRIGHAM AND WOMEN'S
-HOSPITAL",MASSACHUSETTS,UNITED STATES,6/15/2025,"$2,339,448.00","$1,713,952.76","$1,713,952.76","$625,495.24","Tunneling Nanotube Inhibitors for Cancer
-Immunotherapy",Departmental Authority,-,46
-NIH,R01CA276525,RCA276525A,"BRIGHAM AND WOMEN'S
 HOSPITAL",MASSACHUSETTS,UNITED STATES,6/15/2025,-,-,-,-,"Investigating nanotube-mediated mitochondria
 transfer and inhibitor effects in cancer-immune cell
 interactions across 2D and 3D models",Departmental Authority,-,46
+NIH,R01CA276525,RCA276525A,"BRIGHAM AND WOMEN'S
+HOSPITAL",MASSACHUSETTS,UNITED STATES,6/15/2025,"$2,339,448.00","$1,713,952.76","$1,713,952.76","$625,495.24","Tunneling Nanotube Inhibitors for Cancer
+Immunotherapy",Departmental Authority,-,46
 NIH,R01CA277756,RCA277756A,"UNIV OF NORTH CAROLINA
 CHAPEL HILL",NORTH CAROLINA,UNITED STATES,6/15/2025,"$1,110,729.00","$739,294.36","$739,294.36","$371,434.64","Applying causal inference methods to improve
 estimation of the real-world benefits and harms of
@@ -3866,14 +3867,14 @@ NIH,R01DA054990,RDA054990B,"NDRI - USA, Inc.",New York,UNITED STATES,4/3/2025,"$
 Messaging to Increase SARS-CoV-2 Vaccine Uptake
 Among People Who Inject Drugs",Departmental Authority,-,47
 NIH,R01DA055839,RDA055839A,"UNIVERSITY OF SOUTHERN
+CALIFORNIA",CALIFORNIA,UNITED STATES,6/13/2025,-,-,-,-,"The role of momentary acute discrimination and
+cultural resilience in polysubstance use among
+adults from communities of color",Departmental Authority,-,47
+NIH,R01DA055839,RDA055839A,"UNIVERSITY OF SOUTHERN
 CALIFORNIA",CALIFORNIA,UNITED STATES,4/3/2025,"$1,656,543.00","$1,101,932.00","$1,101,932.00","$554,611.00","The influence of social stress on polysubstance use
 and addiction vulnerability among adults in
 communities of color: The mediating role of
 psychological pain",Departmental Authority,-,47
-NIH,R01DA055839,RDA055839A,"UNIVERSITY OF SOUTHERN
-CALIFORNIA",CALIFORNIA,UNITED STATES,6/13/2025,-,-,-,-,"The role of momentary acute discrimination and
-cultural resilience in polysubstance use among
-adults from communities of color",Departmental Authority,-,47
 NIH,R01DA056287,RDA056287A,"FRIENDS RESEARCH
 INSTITUTE, INC",Maryland,UNITED STATES,3/22/2025,-,-,-,-,"Comparative- and cost-effectiveness research
 determining the optimal intervention for advancing
@@ -3907,8 +3908,8 @@ NIH,R01DA059359,RDA059359A,"UNIVERSITY OF TEXAS, EL
 PASO",Texas,UNITED STATES,5/27/2025,"$1,808,822.00","$649,882.00","$649,882.00","$1,158,940.00","Sex Differences and The Influence of Ovarian
 Hormones on the Mechanisms that Promote Nicotine
 Withdrawal",Departmental Authority,-,47
-NIH,R01DA060795,RDA060795A,"Cambridge Hlth Alliance DBA
-Cambridge Public Hlth Comn.",Massachusetts,UNITED STATES,5/27/2025,"$664,922.00","$166,079.00","$166,079.00","$498,843.00","Impact of the New York State Medicaid Value-Based
+NIH,R01DA060795,RDA060795A,"CAMBRIDGE HEALTH
+ALLIANCE",MASSACHUSETTS,UNITED STATES,5/23/2025,"$664,922.00","$166,079.00","$166,079.00","$498,843.00","Impact of the New York State Medicaid Value-Based
 Payment Model on Opioid Use Treatment and Equity",Departmental Authority,-,47
 NIH,R01DA060796,RDA060796A,"ALBERT EINSTEIN COLLEGE
 OF MEDICINE",NEW YORK,UNITED STATES,5/23/2025,"$767,469.00","$297,429.00","$297,429.00","$470,040.00","Virtual Reality Treatment for Chronic Pain and OUD
@@ -4514,7 +4515,7 @@ NIH,R01MD019281,RMD019281A,BROWN UNIVERSITY,RHODE ISLAND,UNITED STATES,4/29/2025
 physical activity among racial and ethnic minority
 mothers",Departmental Authority,-,55
 NIH,R01MD019298,RMD019298A,"BAYLOR COLLEGE OF
-MEDICINE",TEXAS,UNITED STATES,4/29/2025,"$1,308,575.00","$137,916.00","$137,916.00","$1,170,659.00","Transforming Care Delivery Models for at-Risk
+MEDICINE",Texas,UNITED STATES,4/30/2025,"$1,308,575.00","$137,916.00","$137,916.00","$1,170,659.00","Transforming Care Delivery Models for at-Risk
 Young Adult Patients with Congenital Heart Disease
 and Amplifying Research Efforts to Improve Health
 Equity in Pediatric Chronic Disease Care",Departmental Authority,-,55
@@ -5323,6 +5324,10 @@ NIH,R25MH080665,RMH080665D,Columbia University,NEW YORK,UNITED STATES,3/12/2025,
 Underrepresented Investigators",Departmental Authority,-,65
 NIH,R25MH129792,RMH129792A,TEXAS A & M UNIVERSITY,Texas,UNITED STATES,5/27/2025,"$481,742.00","$240,793.00","$240,793.00","$240,949.00","Cultivating a Sustainable Neuroscience Research-
 Intensive Community to Build Equity",Departmental Authority,-,65
+NIH,R25OD039835,ROD039835A,"OREGON HEALTH &
+SCIENCE UNIVERSITY",Oregon,UNITED STATES,6/3/2026,-,-,-,-,"Human Microbiome Data Discovery: A short course
+on unveiling microbial insights to human health
+through Common Fund Data",Bilateral Termination,-,65
 NIH,R33TW011752,RTW011752C,Columbia University,NEW YORK,UNITED STATES,3/12/2025,"$1,016,531.00","$656,616.00","$656,616.00","$359,915.00","Preparing for pre-exposure prophylaxis
 implementation in Central-Eastern European
 Countries with low access to biomedical prevention",Departmental Authority,-,65
@@ -5347,7 +5352,7 @@ Sexual and Gender Minority Youth",Departmental Authority,-,65
 NIH,R34MH133768,RMH133768A,"LURIE CHILDREN'S
 HOSPITAL OF CHICAGO",ILLINOIS,UNITED STATES,3/21/2025,"$249,765.00","$70,397.00","$70,397.00","$179,368.00","Development and Preliminary Trial of a Digital
 Transdiagnostic CBT Intervention for Transgender
-Adolescents",Departmental Authority,-,65
+Adolescents",Departmental Authority,-,66
 NIH,R35ES030396,RES030396A,"UNIVERSITY OF
 PITTSBURGH AT
 PITTSBURGH",PENNSYLVANIA,UNITED STATES,4/28/2025,"$6,542,756.00","$5,244,474.00","$5,244,474.00","$1,298,282.00",Excision Repair of Environmental Telomere Damage,Departmental Authority,-,66
@@ -5421,7 +5426,7 @@ NIH,R35GM144238,RGM144238A,"UNIV OF NORTH CAROLINA
 CHAPEL HILL",NORTH CAROLINA,UNITED STATES,6/2/2025,"$1,979,297.00","$1,824,082.12","$1,824,082.12","$155,215.00",Mechanisms of cell shape change in cytokinesis,Departmental Authority,-,66
 NIH,R35GM145374,RGM145374A,UNIVERSITY OF CHICAGO,ILLINOIS,UNITED STATES,6/1/2025,"$2,177,528.00","$2,171,206.00","$2,171,206.00","$6,322.00",Membrane protein biogenesis at the ER,Departmental Authority,-,66
 NIH,R35GM145599,RGM145599A,"UT SOUTHWESTERN
-MEDICAL CENTER",TEXAS,UNITED STATES,8/22/2025,"$2,103,512.00","$1,545,432.00","$1,545,432.00","$558,080.00",Function and regulation of epithelial glycosylation,Bilateral Termination,-,66
+MEDICAL CENTER",TEXAS,UNITED STATES,8/22/2025,"$2,103,512.00","$1,545,432.00","$1,545,432.00","$558,080.00",Function and regulation of epithelial glycosylation,Bilateral Termination,-,67
 NIH,R35GM146765,RGM146765A,UNIVERSITY OF CINCINNATI,Ohio,UNITED STATES,4/22/2026,-,-,-,-,"New Strategies for Copper-Catalyzed Cross-
 Coupling of Alkyl Electrophiles",Bilateral Termination,-,67
 NIH,R35GM146795,RGM146795A,"MICHIGAN STATE
@@ -5498,7 +5503,7 @@ LOS ANGELES",CALIFORNIA,UNITED STATES,9/18/2025,"$44,497.22","$44,497.22","$44,4
 Responsivity in Autism",Bilateral Termination,-,67
 NIH,R36MH136796,RMH136796A,"HARVARD UNIVERSITY
 MEDICAL SCHOOL",Massachusetts,UNITED STATES,4/29/2025,"$91,032.00","$45,460.00","$45,460.00","$45,572.00","Functional and molecular organization of lateral
-septum in threat processing",Bilateral Termination,-,67
+septum in threat processing",Bilateral Termination,-,68
 NIH,R36MH136806,RMH136806A,EMORY UNIVERSITY,GEORGIA,UNITED STATES,4/28/2025,"$45,516.00","$30,527.00","$30,527.00","$14,989.00","Mitochondrial Defects in 22q11.2 Deletion Using a
 Human-Derived Neuronal Stem Cell Model",Departmental Authority,-,68
 NIH,R36MH136807,RMH136807A,UNIVERSITY OF LOUISVILLE,KENTUCKY,UNITED STATES,5/26/2025,"$45,516.00","$27,305.00","$27,305.00","$18,211.00",Real-Time Monitoring of Relapse in Eating Disorders,Departmental Authority,-,68
@@ -5574,7 +5579,7 @@ NIH,R44TR005328,RTR005328A,"REJUVENATION
 TECHNOLOGIES INC.",California,UNITED STATES,9/19/2025,-,-,-,-,"Advanced tools for translation of intravenously-
 infused RNA LNP therapeutics to the clinic",Termination for Cause,X,68
 NIH,R56AG087032,RAG087032A,RAND CORPORATION,CALIFORNIA,UNITED STATES,3/21/2025,"$1,040,387.00","$175,272.74","$175,272.74","$865,114.26","Social Connectedness Loneliness and Health Among
-Aging Black Sexual Minority Men",Departmental Authority,-,68
+Aging Black Sexual Minority Men",Departmental Authority,-,69
 NIH,R56AI187084,RAI187084A,"NORTHWESTERN
 UNIVERSITY",Illinois,UNITED STATES,5/23/2025,"$498,659.00","$221,423.00","$221,423.00","$277,236.00",Enhancing HIV-1 vaccines by altering vaccine dose,Departmental Authority,-,69
 NIH,R56CA284564,RCA284564A,BETH ISRAEL HOSPITAL,Massachusetts,UNITED STATES,3/14/2025,"$299,940.00","$286,927.92","$286,927.92","$13,012.08","Gender-Affirming Testosterone Therapy on Breast
@@ -5639,7 +5644,7 @@ PASO",TEXAS,UNITED STATES,5/27/2025,"$1,543,311.00","$1,285,064.00","$1,285,064.
 NIH,T32GM144924,TGM144924A,UNIVERSITY OF MISSISSIPPI,MISSISSIPPI,UNITED STATES,5/27/2025,"$178,902.00","$107,071.00","$107,071.00","$71,831.00",G-RISE at The University of Mississippi,Departmental Authority,-,69
 NIH,T32GM144926,TGM144926A,BROWN UNIVERSITY,Rhode Island,UNITED STATES,4/25/2025,"$1,991,590.00","$1,073,234.00","$1,073,234.00","$918,356.00",IMSD@Brown,Departmental Authority,-,69
 NIH,T32GM148295,TGM148295A,"UNIVERSITY OF
-ROCHESTER",NEW YORK,UNITED STATES,4/25/2025,"$512,267.00","$261,043.00","$261,043.00","$251,224.00",IMSD at the University of Rochester,Departmental Authority,-,69
+ROCHESTER",NEW YORK,UNITED STATES,4/25/2025,"$512,267.00","$261,043.00","$261,043.00","$251,224.00",IMSD at the University of Rochester,Departmental Authority,-,70
 NIH,T32GM148393,TGM148393A,"UNIVERSITY OF TEXAS AT
 SAN ANTONIO",Texas,UNITED STATES,4/28/2025,"$1,162,859.00","$692,320.00","$692,320.00","$470,539.00",IMSD at the University of Texas at San Antonio,Departmental Authority,-,70
 NIH,T32GM148395,TGM148395A,"CLARK ATLANTA
@@ -5710,7 +5715,7 @@ AT BIRMINGHAM",ALABAMA,UNITED STATES,3/22/2025,"$250,060.00","$22,842.74","$22,8
 NIH,T32MH016434,TMH016434I,Columbia University,NEW YORK,UNITED STATES,3/12/2025,"$2,386,983.00","$2,021,424.00","$2,021,424.00","$365,559.00",Translational Research Training in Child Psychiatry,Departmental Authority,-,70
 NIH,T32NS007153,TNS007153H,Columbia University,NEW YORK,UNITED STATES,3/12/2025,"$1,743,833.00","$1,390,847.00","$1,390,847.00","$352,986.00",Neuroepidemiology Training Program,Departmental Authority,-,70
 NIH,T32NS064928,TNS064928C,Columbia University,NEW YORK,UNITED STATES,3/12/2025,"$1,149,851.00","$1,066,400.00","$1,066,400.00","$83,451.00","Advanced Graduate Training Program in
-Neurobiology & Behavior",Departmental Authority,-,70
+Neurobiology & Behavior",Departmental Authority,-,71
 NIH,T32NS064929,TNS064929C,Columbia University,NEW YORK,UNITED STATES,3/12/2025,"$1,051,461.00","$977,325.00","$977,325.00","$74,136.00","Advanced Graduate Training Program in Theoretical
 Neuroscience",Departmental Authority,-,71
 NIH,T34GM136453,TGM136453A,"UNIVERSITY OF KANSAS
@@ -5769,7 +5774,7 @@ Undergraduates (RIT U-RISE)",Departmental Authority,-,71
 NIH,T34GM149392,TGM149392A,"UNIVERSITY OF THE VIRGIN
 ISLANDS",VIRGIN ISLANDS,UNITED STATES,4/3/2025,"$763,057.00","$763,057.00","$763,057.00",-,U-RISE at the University of the Virgin Islands,Departmental Authority,-,71
 NIH,T34GM149434,TGM149434A,"UNIVERSITY OF NORTH
-CAROLINA AT PEMBROKE",NORTH CAROLINA,UNITED STATES,4/3/2025,"$250,538.00","$204,352.00","$204,352.00","$46,186.00",U-RISE at the UNC Pembroke,Departmental Authority,-,71
+CAROLINA AT PEMBROKE",NORTH CAROLINA,UNITED STATES,4/3/2025,"$250,538.00","$204,352.00","$204,352.00","$46,186.00",U-RISE at the UNC Pembroke,Departmental Authority,-,72
 NIH,T34GM149449,TGM149449A,"UNIVERSITY OF ALASKA
 ANCHORAGE",ALASKA,UNITED STATES,4/3/2025,"$429,279.00","$405,570.00","$405,570.00","$23,709.00","U-RISE at University of Alaska Anchorage (Biomed
 U-RISE)",Departmental Authority,-,72
@@ -5822,16 +5827,16 @@ NIH,U01AI151807,UAI151807A,"UNIVERSITY OF TEXAS,
 MEDICAL BRANCH AT
 GALVESTON",Texas,UNITED STATES,6/6/2025,"$8,087,861.00","$7,745,360.00","$7,745,360.00","$342,501.00","Coordinating Research on Emerging Arboviral
 Threats Encoing the Neotropics (CREATE-NEO)",Departmental Authority,-,72
-NIH,U01AI151810,UAI151810B,WASHINGTON UNIVERSITY,MISSOURI,UNITED STATES,6/5/2025,"$8,373,400.00","$7,829,000.00","$7,829,000.00","$544,400.00","Emerging infections: surveillance, epidemiology and
+NIH,U01AI151810,UAI151810B,WASHINGTON UNIVERSITY,Missouri,UNITED STATES,6/6/2025,"$8,373,400.00","$7,829,000.00","$7,829,000.00","$544,400.00","Emerging infections: surveillance, epidemiology and
 pathogenesis",Departmental Authority,-,72
 NIH,U01AI151812,UAI151812A,"SCRIPPS RESEARCH
 INSTITUTE, THE",CALIFORNIA,UNITED STATES,6/6/2025,"$26,411,746.00","$24,349,574.00","$24,349,574.00","$2,062,172.00","West African Emerging Infectious Disease Research
 Center (WA-EIDRC)",Departmental Authority,-,72
-NIH,U01CA195568,UCA195568B,MAYO CLINIC ROCHESTER,MINNESOTA,UNITED STATES,5/26/2025,-,-,-,-,"The Lymphoma Epidemiology of Outcomes (LEO)
-Cohort Study (Diversity Supplement - Mazie Tsang)",Departmental Authority,-,72
 NIH,U01CA195568,UCA195568B,MAYO CLINIC ROCHESTER,MINNESOTA,UNITED STATES,5/26/2025,"$10,153,114.02","$8,498,317.79","$8,498,317.79","$1,654,796.23","The Lymphoma Epidemiology of Outcomes (LEO)
 Cohort Study (Diversity Supplement - Alexis
 Romero)",Departmental Authority,-,72
+NIH,U01CA195568,UCA195568B,MAYO CLINIC ROCHESTER,MINNESOTA,UNITED STATES,5/26/2025,-,-,-,-,"The Lymphoma Epidemiology of Outcomes (LEO)
+Cohort Study (Diversity Supplement - Mazie Tsang)",Departmental Authority,-,72
 NIH,U01CA260462,UCA260462BC6,"UNIVERSITY OF ALABAMA
 AT BIRMINGHAM",ALABAMA,UNITED STATES,3/27/2025,"$3,969,732.00","$2,945,511.83","$2,945,511.83","$1,024,220.17","Adaptive Immunity and Persistent SARS-CoV-2
 Replication",Departmental Authority,-,72
@@ -5843,7 +5848,7 @@ Defining the mechanistic basis of high risk
 endotypes.",Departmental Authority,-,72
 NIH,U01CA267827,UCA267827A,"HARVARD MEDICAL
 SCHOOL",MASSACHUSETTS,UNITED STATES,9/3/2025,"$2,206,534.00","$1,453,225.00","$1,453,225.00","$753,309.00","Progenitor cell states contributing to aging and lung
-cancer",Bilateral Termination,-,72
+cancer",Bilateral Termination,-,73
 NIH,U01DA040381,UDA040381AC6,"FLORIDA INTERNATIONAL
 UNIVERSITY",FLORIDA,UNITED STATES,3/24/2025,"$9,618,541.00","$9,491,829.36","$9,491,829.36","$126,711.64","Community-Engaged Research on COVID-19
 Testing Among Underserved and/or Vulnerable
@@ -5914,17 +5919,17 @@ National Coordinating Center (RCMARs NCC)",Departmental Authority,-,73
 NIH,U24CA271037,UCA271037A,"UNIVERSITY OF MICHIGAN
 AT ANN ARBOR",MICHIGAN,UNITED STATES,6/15/2025,"$3,234,070.00","$2,475,269.72","$2,475,269.72","$758,800.28","Michigan Center for Translational Cancer
 Proteogenomics",Departmental Authority,-,73
-NIH,U24DA058961,UDA058961A,UNIVERSITY OF KENTUCKY,KENTUCKY,UNITED STATES,6/2/2025,"$1,554,677.00","$1,047,722.00","$1,047,722.00","$506,955.00","The University of Kentucky Racial Equity Initiative
-Coordinating Center",Departmental Authority,-,73
 NIH,U24DA058961,UDA058961A,UNIVERSITY OF KENTUCKY,KENTUCKY,UNITED STATES,6/2/2025,-,-,-,-,"The University of Kentucky Racial Equity Initiative
 Coordinating Center (UK-REI-CC)- Administrative
 Supplement",Departmental Authority,-,73
+NIH,U24DA058961,UDA058961A,UNIVERSITY OF KENTUCKY,KENTUCKY,UNITED STATES,6/2/2025,"$1,554,677.00","$1,047,722.00","$1,047,722.00","$506,955.00","The University of Kentucky Racial Equity Initiative
+Coordinating Center",Departmental Authority,-,73
 NIH,U24DK137631,UDK137631A,DUKE UNIVERSITY,NORTH CAROLINA,UNITED STATES,4/30/2025,"$1,853,916.00","$968,091.00","$968,091.00","$885,825.00","Interventions that Address Structural Racism to
 Reduce Kidney Health Disparities Research
 Coordinating Center",Departmental Authority,-,73
 NIH,U24DK138889,UDK138889A,"VIRGINIA COMMONWEALTH
 UNIVERSITY",VIRGINIA,UNITED STATES,3/21/2025,"$521,354.00",-,-,"$521,354.00","VCU National Coordinating Center for Advancing
-Gender Inclusive Excellence",Departmental Authority,-,73
+Gender Inclusive Excellence",Departmental Authority,-,74
 NIH,U24MD017138,UMD017138A,"MOREHOUSE SCHOOL OF
 MEDICINE",Georgia,UNITED STATES,3/8/2025,"$7,813,013.00","$5,193,516.00","$5,193,516.00","$2,619,497.00","FIRST Coordination and Evaluation Center to
 promote inclusive excellence",Departmental Authority,-,74
@@ -6003,7 +6008,7 @@ RESEARCH INSTITUTE",Minnesota,UNITED STATES,3/4/2026,-,-,-,-,"Effectiveness of N
 Sampling in Dental Practices",Bilateral Termination,-,74
 NIH,UH3DE030063,UDE030063B,HealthPartners Institute,MINNESOTA,UNITED STATES,3/10/2025,"$757,577.00","$73,014.65","$73,014.65","$684,562.35","Investigating Behavioral Mechanisms and Efficacy of
 a Provider-Directed Intervention for HPV Vaccine
-Promotion in Real-World Dental Settings",Departmental Authority,-,74
+Promotion in Real-World Dental Settings",Departmental Authority,-,75
 NIH,UH3HL152323,UHL152323B,Columbia University,NEW YORK,UNITED STATES,3/14/2025,"$3,639,922.00","$2,559,061.97","$2,559,061.97","$1,080,860.03","Alpha-1 Antitrypsin Disease Cohort: Longitudinal
 Biomarker Study of Disease",Departmental Authority,-,75
 NIH,UL1TR001857,UTR001857B,"UNIVERSITY OF
@@ -6020,15 +6025,15 @@ NIH,UM1AI148684,UAI148684ACV,EMORY UNIVERSITY,GEORGIA,UNITED STATES,3/24/2025,"$
 Research Consortium (IDCRCLG)",Departmental Authority,-,75
 NIH,UM1AI154468,UAI154468A,"COLUMBIA UNIVERSITY
 HEALTH SCIENCES",NEW YORK,UNITED STATES,3/21/2025,"$9,939,140.00","$9,436,528.31","$9,436,528.31","$502,611.69",ICAP Clinical Trials Unit,Departmental Authority,-,75
-NIH,UM1MH130981,UMH130981A,ALLEN INSTITUTE,WASHINGTON,UNITED STATES,4/24/2025,"$117,797.00",-,-,"$117,797.00","Evolutionary Pathways of Memory: Multiomic
-Analysis of the Entorhinal Cortex across Mammals.",Departmental Authority,-,75
 NIH,UM1MH130981,UMH130981A,ALLEN INSTITUTE,WASHINGTON,UNITED STATES,4/24/2025,"$175,827.00",-,-,"$175,827.00","Functionally guided adult whole brain cell atlas in
 human and NHP",Departmental Authority,-,75
-NIH,UM1TR004360,UTR004360A,"VIRGINIA COMMONWEALTH
-UNIVERSITY",VIRGINIA,UNITED STATES,5/15/2025,"$8,370,998.00","$5,861,628.00","$5,861,628.00","$2,509,370.00","Wright Regional Center for Clinical and Translational
-Science",Departmental Authority,-,75
+NIH,UM1MH130981,UMH130981A,ALLEN INSTITUTE,WASHINGTON,UNITED STATES,4/24/2025,"$117,797.00",-,-,"$117,797.00","Evolutionary Pathways of Memory: Multiomic
+Analysis of the Entorhinal Cortex across Mammals.",Departmental Authority,-,75
 NIH,UM1TR004360,UTR004360A,"VIRGINIA COMMONWEALTH
 UNIVERSITY",VIRGINIA,UNITED STATES,5/16/2025,-,-,-,-,"Wright Regional Center for Clinical and Translational
+Science",Departmental Authority,-,75
+NIH,UM1TR004360,UTR004360A,"VIRGINIA COMMONWEALTH
+UNIVERSITY",VIRGINIA,UNITED STATES,5/15/2025,"$8,370,998.00","$5,861,628.00","$5,861,628.00","$2,509,370.00","Wright Regional Center for Clinical and Translational
 Science",Departmental Authority,-,75
 SAMHSA,B08TI083492,21B1WVSAPTC5,"WEST VIRGINIA STATE DEPT
 HLTH/HUMAN RSCS",WEST VIRGINIA,UNITED STATES,3/24/2025,"$7,904,019.00","$7,879,456.49","$7,493,382.65","$410,636.35",Substance Use Block Grant - COVID Relief,Departmental Authority,-,75
@@ -6072,7 +6077,7 @@ SAMHSA,B08TI083536,21B1FMSAPTC5,"FSM DEPT OF HEALTH AND
 SOCIAL AFFAIRS",MICRONESIA,UNITED STATES,3/24/2025,"$662,313.00","$450,785.25","$443,904.51","$218,408.49",Mental Health Block Grant - COVID Relief,Departmental Authority,-,75
 SAMHSA,B08TI083546,21B1UTSAPTC5,"UTAH DEPARTMENT OF
 HEALTH AND HUMAN
-SERVICES",UTAH,UNITED STATES,3/24/2025,"$15,548,611.00","$15,548,597.17","$15,253,127.74","$295,483.26",Mental Health Block Grant - COVID Relief,Departmental Authority,-,75
+SERVICES",UTAH,UNITED STATES,3/24/2025,"$15,548,611.00","$15,548,597.17","$15,253,127.74","$295,483.26",Mental Health Block Grant - COVID Relief,Departmental Authority,-,76
 SAMHSA,B08TI083551,21B1MRSAPTC5,"REPUBLIC/MARSHALL IS
 MINISTRY OF FINANCE",MARSHALL ISLANDS,UNITED STATES,3/24/2025,"$483,646.00",-,-,"$483,646.00",Mental Health Block Grant - COVID Relief,Departmental Authority,-,76
 SAMHSA,B08TI083924,21B1WVSAPTC6,"WEST VIRGINIA STATE DEPT
